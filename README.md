@@ -1,1 +1,1 @@
-# sgt
+# sgt — sistema de gestão de arquivos
